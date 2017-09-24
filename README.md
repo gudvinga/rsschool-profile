@@ -1,3 +1,2 @@
-# rsschool-profile
-# Aliaksei Hudzimchyk
-# HTML CSS Basics: https://www.codecademy.com/users/gudvinga/achievements
+Aliaksei Hudzimchyk <br/>
+HTML CSS Basics: https://www.codecademy.com/users/gudvinga/achievements
